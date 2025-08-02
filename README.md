@@ -15,8 +15,9 @@ WinMouseHereは、一定時間マウス・キーボード操作がなかった�
 * マウス・キーボードの両方の入力監視に対応
 
 ## インストール
-任意のフォルダにzipファイルの内容を展開してください。
-
+- 任意のフォルダにzipファイルの内容を展開してください。
+- 以下のリンクから Visual C++ 再頒布可能パッケージをインストールしてください。  
+https://aka.ms/vs/17/release/vc_redist.x64.exe
 
 ## 使い方
 1. アプリを起動すると設定ウィンドウが表示されます。
@@ -69,7 +70,9 @@ period.
 - Monitors both mouse and keyboard activity
 
 ## Installation
-Extract the contents of the ZIP file to any folder of your choice.
+- Extract the contents of the ZIP file to any folder of your choice.
+- Please install the Visual C++ Redistributable Package from the following link.  
+https://aka.ms/vs/17/release/vc_redist.x64.exe
 
 ## How to Use
 1. Launch the application to open the settings window.
